@@ -884,7 +884,7 @@ body.fixed {
 .showcase {
   padding-top: 216px;
   padding-bottom: 102px;
-  background-image: url(../images/bg.png);
+  background-image: url(../images/bg.webp);
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -1727,7 +1727,7 @@ border-bottom: 4px solid #2F98AF;
     &::before {
       content: "";
       position: absolute;
-      background-image: url(../images/man.png);
+      background-image: url(../images/man.webp);
       background-size: contain;
       background-repeat: no-repeat;
       width: 240px;
@@ -1936,7 +1936,7 @@ border-bottom: 4px solid #2F98AF;
 
   &__block {
     padding: 21px 25px 27px 20px;
-    background-image: url(../images/frame.png);
+    background-image: url(../images/frame.webp);
     background-size: contain;
     background-repeat: no-repeat;
     margin-right: 10px;
@@ -2348,7 +2348,7 @@ border-bottom: 4px solid #2F98AF;
 
   &__extra {
     padding: 20px 20px 40px 31px !important;
-    background-image: url(../images/extra-quiz-bg.png) !important;
+    background-image: url(../images/extra-quiz-bg.webp) !important;
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 16px;
@@ -2447,7 +2447,7 @@ border-bottom: 4px solid #2F98AF;
     position: absolute;
     width: 118px;
     height: 90px;
-    background-image: url(../images/checkbox-wa.png);
+    background-image: url(../images/checkbox-wa.webp);
     background-size: contain;
     background-repeat: no-repeat;
     left: 0;
@@ -4085,7 +4085,7 @@ border-bottom: 4px solid #2F98AF;
 }
 
 .guarantee {
-  background-image: url(../images/garant-bg.png);
+  background-image: url(../images/garant-bg.webp);
   background-size: cover;
   background-repeat: no-repeat;
   margin-bottom: 204px;
@@ -4649,7 +4649,7 @@ border-bottom: 4px solid #2F98AF;
   }
 
   .about__item {
-    background-image: url(../images/bg-construct.png);
+    background-image: url(../images/bg-construct.webp);
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
@@ -5394,7 +5394,7 @@ border-bottom: 4px solid #2F98AF;
 
   &-block {
     padding: 87px 0 88px 94px;
-    background-image: url(../images/bg-form-end.png);
+    background-image: url(../images/bg-form-end.webp);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 16px;
